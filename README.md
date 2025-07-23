@@ -16,11 +16,13 @@ This script allows you to:
 
 Tested on Govee LED model H617A.
 
-If you have a different Govee model, see Setup step 3 and 4 below to discover the correct UUIDs for your device.
+If you have a different Govee model, see Setup steps 3 and 4 below to discover the correct UUIDs and payloads for your device.
 
 ---
 
 ## Setup
+
+**Steps 1 and 2 are required for all users. Steps 3 and 4 are only needed if you are NOT using model H617A.**
 
 ### 1. Find Your Bluetooth Adapter Name
 
