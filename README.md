@@ -16,6 +16,8 @@ This script allows you to:
 
 Tested on Govee LED model H617A.
 
+If you have a different Govee model, see Setup step 3 and 4 below to discover the correct UUIDs for your device.
+
 ---
 
 ## Setup
