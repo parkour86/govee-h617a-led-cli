@@ -1,6 +1,6 @@
 # Govee_LED.py
 
-## Requirements:
+## Pre-Requirements
 - Python 3
 - The `bleak` library (`pip install bleak`)
 - BlueZ version 5.76 or higher is required
