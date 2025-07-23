@@ -23,7 +23,7 @@ Tested on Govee LED model H617A.
 #   • Run: hciconfig or bluetoothctl list
 #   • Look for names like "hci0", "hci1", etc.
 #   • Enter the correct adapter name below.
-ADAPTER = "hci1"
+ADAPTER = "hci0"
 
 # How to get your Govee MAC address:
 #   • Install bluez-tools if you don't have it:
@@ -31,7 +31,7 @@ ADAPTER = "hci1"
 #   • Then list Bluetooth devices:
 #       bt-device -l
 #   • Find your Govee device in the list and copy its MAC address below.
-DEVICE_ADDRESS = "CE:36:35:30:1D:52"
+DEVICE_ADDRESS = ""
 
 ## GATT characteristic UUIDs for your Govee device.
 #
