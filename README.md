@@ -1,6 +1,6 @@
 # Govee_LED.py
 
-**Requirements:**
+## Requirements:
 - Python 3
 - The `bleak` library (`pip install bleak`)
 - BlueZ version 5.76 or higher is required
@@ -8,7 +8,7 @@
 
 Control and query the state of a Govee LED strip via Bluetooth LE.
 
-This script allows you to:
+**This script allows you to:**
 - Turn the LED strip ON or OFF
 - Query the current LED state
 - Toggle the LED state
