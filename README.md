@@ -22,7 +22,7 @@ If you have a different Govee model, see Setup steps 3 and 4 below to discover t
 
 ## Setup
 
-**Steps 1 and 2 are required for all users. Steps 3 and 4 are only needed if you are NOT using model H617A.**
+**NOTE: Steps 3 and 4 are only needed if you are NOT using a Govee H617A LED strip.**
 
 ### 1. Find Your Bluetooth Adapter Name
 
