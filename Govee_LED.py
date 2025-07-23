@@ -48,8 +48,10 @@ READ_CHAR_UUID  = "00010203-0405-0607-0809-0a0b0c0d2b10" #Properties: read, noti
 # How to obtain these for your device:
 #   • Using nRF Connect (Android/iOS):
 #       - Connect to your Govee device.
-#       - Perform actions (e.g., turn on/off) in the official app.
-#       - Observe the "Write" commands sent to the writable characteristic.
+#       - Click the three dots at the top right of the app and select "Show log".
+#       - Change from "VERBOSE" to "INFO" at the bottom.
+#       - Perform actions (e.g., turn on/off) in the official Govee app.
+#       - Observe the "Notification received from" commands sent to the writable characteristic.
 #       - Copy the hex payloads shown.
 #   • Using Linux tools:
 #       - Use `bluetoothctl` or `gatttool` to connect and write to characteristics.
